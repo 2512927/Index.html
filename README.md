@@ -1,5 +1,4 @@
-# Index.html
-<!DOCTYPE html>
+# Index-html
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -90,6 +89,13 @@ footer{
 <div class="container">
 
 <p>
+    Google Indexing कैसे बढ़ती है?
+
+जब आपकी वेबसाइट अलग-अलग submission directories पर होती है,
+तो Google को संकेत मिलता है कि आपकी साइट Active और Valuable है।
+
+✔️ कुछ दिनों में आपकी लिंक Google Search में दिखने लगती है
+✔️ Indexing की संभावना बढ़ जाती है
 आज के समय में हर कोई चाहता है कि उसकी वेबसाइट या ब्लॉग Google पर ऊपर दिखे,
 लेकिन लाखों वेबसाइट्स की भीड़ में नई साइट खो जाती है।
 </p>
@@ -148,12 +154,12 @@ Relevant backlinks आपकी साइट को Google की नजर म�
 </p>
 
 <div class="box">
-👉 Free List: <a href="__________">High DA Submission Sites</a>
+👉 Free List: <a href="[________](https://www.freesubmissionon.in/2025/11/zero-cost-traffic-top-free-submission.html)">High DA Submission Sites</a>
 </div>
 
 <h2>📝 Free Submission वेबसाइट पर लिंक कैसे डालें?</h2>
 <ol>
-<li>वेबसाइट खोलें: <strong>__________</strong></li>
+<li>वेबसाइट खोलें: <strong>_freesubmissionon.in_</strong></li>
 <li>Submit Post / Submit Your Site पर क्लिक करें</li>
 <li>Website name, link, category और description भरें</li>
 <li>Submit करें</li>
@@ -172,11 +178,11 @@ Relevant backlinks आपकी साइट को Google की नजर म�
 
 <div class="cta">
 <p>🚀 आज ही अपनी वेबसाइट सबमिट करें</p>
-<a href="__________">Submit Your Website Free</a>
+<a href="https://freesubmissionon.in">Submit Your Website Free</a>
 </div>
 
 <footer>
-© 2025 | Free Submission Guide | Author: __________
+© 2025 | Free Submission Guide
 </footer>
 
 </div>
