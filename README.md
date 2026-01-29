@@ -1,4 +1,6 @@
-# Index-html
+# Index.html
+
+
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -118,7 +120,7 @@ Free Submission एक प्लेटफॉर्म है जहाँ आप
 </ul>
 
 <div class="box">
-👉 Related Article: <a href="[__________](https://www.freesubmissionon.in/2025/11/submit-your-post-free-submission-website.html)">Read More Free Submission post: Submission Website</a>
+👉 Related Article: <a href="https://www.freesubmissionon.in/2025/11/submit-your-post-free-submission-website.html">Read More Free Submission post: Submission Website</a>
 </div>
 
 <h2>✅ Free Submission के बड़े फायदे</h2>
@@ -155,7 +157,7 @@ Relevant backlinks आपकी साइट को Google की नजर म�
 </p>
 
 <div class="box">
-👉 Free List: <a href="[________](https://www.freesubmissionon.in/2025/11/zero-cost-traffic-top-free-submission.html)">High DA Submission Sites</a>
+👉 Free List: <a href="https://www.freesubmissionon.in/2025/11/zero-cost-traffic-top-free-submission.html">High DA Submission Sites</a>
 </div>
 
 <h2>📝 Free Submission वेबसाइट पर लिंक कैसे डालें?</h2>
